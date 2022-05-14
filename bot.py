@@ -4,12 +4,12 @@ from pyrogram.types import Message
 
 
 invite_logger = -695370268
-esanaChat = 
-esanaChannel = 
+esanaChat = -1001764307883
+esanaChannel = -1001608186877
 session=
 
-api_id = 
-api_hash = 
+api_id = 8004294
+api_hash = '5091fcf2a3948b6bc7c5f39dec044a63'
 
 app = Client(session,api_id,api_hash)
 
